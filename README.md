@@ -7,7 +7,7 @@ Note: These scripts are particularly made to use for Windows OS only.
 
 **PRE-REQUISITES:**
 
-You may need to install wmi module. For those who haven't use a simple pip command: pip install wmi
+You may need to install wmi module. For those who haven't, use a simple pip command: pip install wmi
 
 
 **USAGE:**
